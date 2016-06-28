@@ -1,5 +1,5 @@
 #rainbowfyText
-jQuery plugin to generate randomly coloured text - TESTTT
+jQuery plugin to generate randomly coloured text
 
 ## Availability
 To rainbowfy your very own text clone the repo form the below link. No doubt CDN support will be coming soon...
